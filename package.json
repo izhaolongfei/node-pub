@@ -1,0 +1,24 @@
+{
+  "name": "pub",
+  "version": "1.0.0",
+  "description": "sth in node",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izhaolongfei/node-pub.git"
+  },
+  "author": "zhaolongfei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izhaolongfei/node-pub/issues"
+  },
+  "homepage": "https://github.com/izhaolongfei/node-pub#readme",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "https": "^1.0.0",
+    "net": "^1.0.2"
+  }
+}
